@@ -16,4 +16,4 @@ This project implements a full Retrieval-Augmented Generation (RAG) pipeline for
 - Conducted hyperparameter tuning and evaluation (EM/F1 scores).
 
 ## 📄 Documentation
-For deep technical details, please see the attached [Technical Report](Project_Technical_Report.pdf).
+For deep technical details, please see the attached [Technical Report](Technical_Report_Hybrid_RAG.pdf) and [Project Presentation](NLP_Project_Presentation.pdf).
